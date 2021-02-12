@@ -7,4 +7,4 @@ O código encontra-se escrito em NetLogo, uma linguagem de programação que per
 
 Pormenores de implementação podem ser vistos no Relatório.
 
-Foi obtida a classificação de 85%.
+Foi obtida a classificação de 87%.
