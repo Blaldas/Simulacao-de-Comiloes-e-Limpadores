@@ -6,5 +6,3 @@ O trabalho foi realizado por Marco Domingues.
 O código encontra-se escrito em NetLogo, uma linguagem de programação que permite criar ambientes de simulação.
 
 Pormenores de implementação podem ser vistos no Relatório.
-
-Foi obtida a classificação de 87%.
